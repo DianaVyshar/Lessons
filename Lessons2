@@ -11,9 +11,9 @@
         <h3> 
              Слово “гімнастика” походить від грецького gymnazо, що означає "треную, вправляюся”. Гімнастика розвиває всі п'ять фізичних можливостей людини - силу, витривалість, швидкість, координацію і гнучкість. Гімнастика служить для зміцнення здоров'я, гармонійного розвитку людини, його фізичного вдосконалення, може впливати як на весь організм в цілому, так і на окремі органи і системи.<br><br>
         </h3>
-        <img 
-         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgG9r1jeTuIzN-30aI8UWLJZ7Dbz_xFPtgeg&s
-         width="400"
-        />
-    </body>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgG9r1jeTuIzN-30aI8UWLJZ7Dbz_xFPtgeg&s">
+     <footer>
+         <h5 align="center">VSHR</h5>
+     </footer>
+</body>
 </html>
